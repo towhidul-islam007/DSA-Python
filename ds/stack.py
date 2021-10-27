@@ -57,7 +57,7 @@ class Stack:
         Raises:
         ------
         IndexError
-            If no item is left to pop it raises index error 
+            If no item is left to pop it raises index error
 
         Returns:
         -------
